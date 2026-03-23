@@ -1,0 +1,5 @@
+This is a basic user auth program using basic CIA Triad principals. 
+Here's how:
+  Confidentiality: Roles based system prevents users from viewing information outside their permissions
+  Integrity: only admins have the permissions, inherited by their roles, to modify existing user accounts
+  Availability: being a self hosted program without reliance on network access, all program functions are always available.
